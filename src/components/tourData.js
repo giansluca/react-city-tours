@@ -1,34 +1,34 @@
 export const tourData = [
   {
     id: 1,
-    city: "new york",
-    img: "./img/newyork.jpeg",
-    name: "new york bridge tour",
+    city: "london",
+    img: "./img/london.jpg",
+    name: "london tour",
     info:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!",
   },
   {
     id: 2,
-    city: "paris",
-    img: "./img/paris.jpeg",
-    name: "paris lights tour",
+    city: "madrid",
+    img: "./img/madrid.jpg",
+    name: "madrid tour",
     info:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!",
   },
   {
     id: 3,
-    city: "london",
-    img: "./img/london.jpeg",
-    name: "london royal palace tour",
+    city: "amsterdam",
+    img: "./img/amsterdam.jpg",
+    name: "amsterdam tour",
     info:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!",
   },
   {
     id: 4,
-    city: "tokyo",
-    img: "./img/tokyo.jpeg",
-    name: "tokyo sushi tour",
+    city: "berlin",
+    img: "./img/berlin.jpg",
+    name: "berlin tour",
     info:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
-  }
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!",
+  },
 ];
